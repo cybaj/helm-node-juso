@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-juso
-        image: docker.io/cybaj/node-juso:withJusoApi0.5
+        image: docker.io/cybaj/node-juso:withJusoApi0.7
         resources:
           requests:
             memory: 512Mi
